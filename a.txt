@@ -3,5 +3,4 @@ welcome
 format
 hi
 bye
-thi sis new line addded
-advanced line
+
