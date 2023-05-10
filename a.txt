@@ -4,4 +4,7 @@ format
 hi
 bye
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 475cc05f6fc8a2c1ac8df69ecbac3156a6e427f9
