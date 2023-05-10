@@ -5,5 +5,6 @@ string gender;
 boolean active;
   string name;
   double fee;
+string sddress
 
 }
