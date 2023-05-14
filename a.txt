@@ -4,5 +4,10 @@ format
 hi
 bye
 this is new line added
+<<<<<<< Updated upstream
 thi is remote line
 remote line is available
+=======
+this is local line 
+local line is available
+>>>>>>> Stashed changes
